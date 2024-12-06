@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:FhDahq3g00JRcHCR@tulipcargo.nzfxt.mongodb.net/?retryWrites=true&w=majority&appName=tulipcargo",
+    "secretKey" : "mern-secret-key"
+}
